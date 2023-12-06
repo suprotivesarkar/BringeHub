@@ -1,5 +1,5 @@
 # BringeHub
-**BringeHub: Your Ultimate Destination for Movie and TV Series Enthusiasts **
+BringeHub: Your Ultimate Destination for Movie and TV Series Enthusiasts
 Welcome to BringeHub, the premier online platform for all your movie and TV series needs! BringeHub is a cutting-edge website designed and developed using the latest web technologies, including React, SCSS, and other advanced web development languages. Whether you're a cinephile, a binge-watcher, or someone who just loves to stay updated on the latest releases, BringeHub is your go-to source for comprehensive information and an immersive entertainment experience.
 
 Key Features:
@@ -22,4 +22,4 @@ BringeHub understands your unique taste. Utilizing advanced algorithms, the plat
 Real-Time Updates:
 Stay in the know with real-time updates on upcoming releases, trailers, and industry news. BringeHub keeps you informed about the latest happenings in the world of entertainment.
 
-**BringeHub** _is not just a website; it's a community, a resource, and a hub for all things entertainment. Join us on a cinematic journey, explore new horizons, and elevate your viewing experience with BringeHub!_
+BringeHub _is not just a website; it's a community, a resource, and a hub for all things entertainment. Join us on a cinematic journey, explore new horizons, and elevate your viewing experience with BringeHub
